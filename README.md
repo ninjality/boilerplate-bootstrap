@@ -29,7 +29,7 @@ Any missing features can be added to `gulpfile.js` by following the [Laravel Eli
 
 ## Configuration
 
-You can customize Bootstrap by uncommeting and updating the variables in  `/resources/assets/sass/_bootstrap-variables.scss`.
+You can customize Bootstrap by uncommenting and updating the variables in  `/resources/assets/sass/_bootstrap-variables.scss`.
 
 Also consider removing the `.git` folder and setting your project up as its own Git repository.
 
