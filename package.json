@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-bootstrap",
+  "version": "1.0.0",
+  "description": "boilerplate-bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjality/boilerplate-bootstrap.git"
+  },
+  "author": "Ninjality",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjality/boilerplate-bootstrap/issues"
+  },
+  "homepage": "https://github.com/ninjality/boilerplate-bootstrap#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "font-awesome": "^4.6.1",
+    "jquery": "^2.2.3"
+  }
+}
