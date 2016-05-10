@@ -1,8 +1,13 @@
+# Compiled assets #
+###################
 /public/css
 /public/js
 /public/fonts
+
+# Node generated files #
+########################
 /node_modules
-*.log
+npm-debug.log
 
 # OS generated files #
 ######################
