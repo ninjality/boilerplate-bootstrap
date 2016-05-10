@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "gulp",
+    "prod": "gulp --production",
     "start": "gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
