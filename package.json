@@ -4,6 +4,8 @@
   "description": "boilerplate-bootstrap",
   "main": "index.js",
   "scripts": {
+    "build": "gulp",
+    "start": "gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
