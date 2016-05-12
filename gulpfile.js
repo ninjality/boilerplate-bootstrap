@@ -6,7 +6,11 @@ elixir(function(mix) {
             baseDir: 'public',
         },
         proxy: undefined,
-        files: 'public/**/*',
+        files: [
+            'public/css/app.css',
+            'public/js/app.js',
+            'public/**/*.html',
+        ],
     });
     mix.sass('app.scss');
     mix.browserify('app.js');
